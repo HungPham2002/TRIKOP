@@ -10,7 +10,7 @@ This web application is designed to assist in diagnosing knee osteoarthritis by 
 
 ## Getting Started
 To start using the diagnostic tool, follow these steps:
-1. Access the [TRIKOP web application](https://trikop.gmedai.com/account/login).
+1. Access the [TRIKOP web application](https://gmedai.com/app/main/mri-diagnosis).
 2. Log in with the following credentials:
    - **User name:** userdemo
    - **Password:** demoTRIKOP
