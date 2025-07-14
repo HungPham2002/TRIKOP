@@ -1,4 +1,4 @@
-# TRIKOP: Exploring Visual Prompting Paradigms for Multi-Grade Knee Osteoarthritis Classification on MRI Images
+# [DEMO] TRIKOP: Exploring Visual Prompting Paradigms for Multi-Grade Knee Osteoarthritis Classification on MRI Images
 
 Welcome to the GitHub repository for our web demo showcasing a diagnostic tool for knee osteoarthritis using MRI images with visual prompting.
 
